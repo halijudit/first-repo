@@ -1,1 +1,1 @@
-Egyszerû lábléc
+Simple footer
