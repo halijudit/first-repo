@@ -1,2 +1,2 @@
 # first-repo
-flexible media
+simple footer
